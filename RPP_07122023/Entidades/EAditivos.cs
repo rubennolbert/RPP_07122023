@@ -1,0 +1,1 @@
+﻿public enum Aditivos { Canela, Mascabo, Miel}
